@@ -2,14 +2,19 @@
   "edition": "portable-2026-11-06",
   "files": [
     {
+      "path": ".gitattributes",
+      "sha256": "a79691a93b46e49ce460c26ef22afcc03d6eca1e63bf2edbc20e96159510f6c9",
+      "bytes": 14
+    },
+    {
       "path": "PROVENANCE.md",
-      "sha256": "b2c277d827bdf7aa81f511518fa786c56f962dffed40b964b0cda9c1f7959e0e",
-      "bytes": 3161
+      "sha256": "438ac662c4198f59f69e90da157cfd212888fd0a99e24617409ccfb97a47b09a",
+      "bytes": 3128
     },
     {
       "path": "README.md",
-      "sha256": "29b7eb2670152394ec1284e36e2b0c66378ea792c0ce9c6d364d96ae1ca1274e",
-      "bytes": 2567
+      "sha256": "5c043f1ed1bb7e0cec467a2d1286b4b12166ce586f63f347625eedb96844fb74",
+      "bytes": 2541
     },
     {
       "path": "skills/architectural-cinematic-maquette/references/corrections.md",
@@ -18,8 +23,8 @@
     },
     {
       "path": "skills/architectural-cinematic-maquette/SKILL.md",
-      "sha256": "4f743400a3a3d00e0577ad1f9841a46cbefbba99e68abf4bc615560648fe9966",
-      "bytes": 7516
+      "sha256": "27175fec2691ff3c9fb9c6650b85275388b2852708234c9339bb37cf3ee1f85c",
+      "bytes": 7464
     },
     {
       "path": "skills/architectural-render-credibility-v1/agents/openai.yaml",
@@ -53,8 +58,8 @@
     },
     {
       "path": "SKILLS.md",
-      "sha256": "badcd34b22a28987f60472fecd0537157528e1980fb4f0bf36148aa308716526",
-      "bytes": 2486
+      "sha256": "527f5502776a37e798d41f91f0cc601a05964fa217f61f9c3a26ecafc028ffd1",
+      "bytes": 2449
     }
   ],
   "note": "Hashes cover listed files; this manifest excludes itself. Source paths are retained in a separate internal audit."
