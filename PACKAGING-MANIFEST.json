@@ -1,0 +1,61 @@
+{
+  "edition": "portable-2026-11-06",
+  "files": [
+    {
+      "path": "PROVENANCE.md",
+      "sha256": "b2c277d827bdf7aa81f511518fa786c56f962dffed40b964b0cda9c1f7959e0e",
+      "bytes": 3161
+    },
+    {
+      "path": "README.md",
+      "sha256": "29b7eb2670152394ec1284e36e2b0c66378ea792c0ce9c6d364d96ae1ca1274e",
+      "bytes": 2567
+    },
+    {
+      "path": "skills/architectural-cinematic-maquette/references/corrections.md",
+      "sha256": "97a5fc7787607bed14f0abe1f1cbd59c1caf8824d88f216b882c42d3b30c38be",
+      "bytes": 3878
+    },
+    {
+      "path": "skills/architectural-cinematic-maquette/SKILL.md",
+      "sha256": "4f743400a3a3d00e0577ad1f9841a46cbefbba99e68abf4bc615560648fe9966",
+      "bytes": 7516
+    },
+    {
+      "path": "skills/architectural-render-credibility-v1/agents/openai.yaml",
+      "sha256": "47603dc2c8db835ef9ce8dbfafbbcc5b7a360ffdd43bd67b623905a7b1d0929b",
+      "bytes": 309
+    },
+    {
+      "path": "skills/architectural-render-credibility-v1/references/anti-slop-forces.md",
+      "sha256": "cc2b226483a3af416fc6094531c893fdfc5e98bcfc02fd891fe1efa6c88acab9",
+      "bytes": 5109
+    },
+    {
+      "path": "skills/architectural-render-credibility-v1/references/final-qa-gate.md",
+      "sha256": "110fff1928a699f151b0f835ebcdb3b8339b653e470d0b46d78924a162609656",
+      "bytes": 5479
+    },
+    {
+      "path": "skills/architectural-render-credibility-v1/references/light-material-clarity.md",
+      "sha256": "0bfb625dc19be720b8228430daa42118b12972eebaf256e8918f3db9ff3f4f99",
+      "bytes": 5689
+    },
+    {
+      "path": "skills/architectural-render-credibility-v1/SKILL.md",
+      "sha256": "d3daff17ec68d2846d9db28250e5f9a3d388067643cd68badb7d62bc5f3c7adf",
+      "bytes": 12609
+    },
+    {
+      "path": "skills/vaizel-interior-rendering-physics/SKILL.md",
+      "sha256": "63f3c5442fbc1733696caa8bce7d8e3bfda96453d467d0a5d74688be0eb4d0fc",
+      "bytes": 18017
+    },
+    {
+      "path": "SKILLS.md",
+      "sha256": "badcd34b22a28987f60472fecd0537157528e1980fb4f0bf36148aa308716526",
+      "bytes": 2486
+    }
+  ],
+  "note": "Hashes cover listed files; this manifest excludes itself. Source paths are retained in a separate internal audit."
+}

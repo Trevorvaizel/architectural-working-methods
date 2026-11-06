@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architectural Render Credibility V1"
+  short_description: "Keep render stacks faithful and photoreal"
+  default_prompt: "Use $architectural-render-credibility-v1 to refine this render stack so later views preserve the approved architecture, materials, lighting, and visual canon."
